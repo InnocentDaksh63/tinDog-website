@@ -2,6 +2,12 @@ body{
     margin: 0;
     font-family: "Montserrat";
 }
+
+h2{
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
 #title{
     background-color: #ff4c68;
     color: #fff;
@@ -77,11 +83,7 @@ p{
     color: #fff;
 }
 
-h2{
-    font-family: "Montserrat-Bold";
-    font-size: 3rem;
-    line-height: 1.5;
-}
+
 
 .testimonials-image{
     border-radius: 100%;
